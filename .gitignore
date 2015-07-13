@@ -1,3 +1,4 @@
+.gitignore
 *~
 bin
 obj
@@ -30,12 +31,16 @@ _sgbak
 *.pdb
 *.plg
 *.scc
+*.SCC
 *.vbw
 *.webuser
 *.log
 license.lic
 license.key
-
+Northstar
+packages
+PrecompiledWeb
+Setups
 
 
 
